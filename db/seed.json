@@ -1,0 +1,22 @@
+[
+  {
+    "Name" : "Paul",
+    "SpiritAnimal" : "Racoon",
+    "DoTheyLikeIt" : true
+  },
+  {
+    "Name" : "Stephen",
+    "SpiritAnimal": "Meerkat",
+    "DoTheyLikeIt" : true
+  },
+  {
+    "Name" : "Jason",
+    "SpiritAnimal": "Snake",
+    "DoTheyLikeIt" : true
+  },
+  {
+    "Name" : "Simran",
+    "SpiritAnimal" : "Eagle",
+    "DoTheyLikeIt" : true
+  }
+]
