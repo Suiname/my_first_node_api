@@ -6,4 +6,4 @@ var SpiritAnimalSchema = new mongoose.Schema({
   DoTheyLikeIt: Boolean
 });
 
-module.exports = mongoose.model('SpiritAnimals', SpiritAnimalSchema);
+module.exports = mongoose.model('SpiritAnimals', SpiritAnimalSchema, 'SpiritAnimals');
